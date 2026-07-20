@@ -1,0 +1,4 @@
+- All the raw images/input files (50 images for 2 members) must be placed in a folder named "dataset". 
+- After that run the code file named process_grains.py . This code should be located at the same location where "dataset" folder is located.
+- Processed grain images/output files will be saved in the foled named "processed_grains"
+- The CSV file which contains the data of each grain named as "metadata" will be saved in the folder "processed_grains"
